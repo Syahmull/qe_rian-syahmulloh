@@ -1,0 +1,7 @@
+starter\stepdefinitions\searchSteps.class
+starter\login\Photopost.class
+starter\stepdefinitions\potoStep.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\login\Search.class
+starter\login\Login.class
+starter\stepdefinitions\LoginSteps.class
