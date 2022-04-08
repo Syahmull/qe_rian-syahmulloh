@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: As user I want to GET information about books
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.846 s <<< FAILURE! - in As user I want to GET information about books
+As user I want to GET information about books.GET - As user I want to GET information about books  Time elapsed: 0.846 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to resolve the class file version of the current VM: This JVM's version string does not seem to be valid: 18
+

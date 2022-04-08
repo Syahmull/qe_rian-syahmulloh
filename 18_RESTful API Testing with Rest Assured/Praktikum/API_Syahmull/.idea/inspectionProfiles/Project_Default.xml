@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="net.serenity-bdd:serenity-core" />
+          <option value="net.serenity-bdd:serenity-junit" />
+          <option value="net.serenity-bdd:serenity-rest-assured" />
+          <option value="org.assertj:assertj-core" />
+          <option value="junit:junit" />
+          <option value="org.codehaus.groovy:groovy-xml" />
+          <option value="org.codehaus.groovy:groovy" />
+          <option value="io.rest-assured:xml-path" />
+          <option value="io.rest-assured:json-path" />
+          <option value="io.rest-assured:rest-assured" />
+          <option value="net.serenity-bdd:serenity-cucumber6" />
+          <option value="net.serenity-bdd:serenity-screenplay-rest" />
+          <option value="net.serenity-bdd:serenity-screenplay" />
+          <option value="ch.qos.logback:logback-classic" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
