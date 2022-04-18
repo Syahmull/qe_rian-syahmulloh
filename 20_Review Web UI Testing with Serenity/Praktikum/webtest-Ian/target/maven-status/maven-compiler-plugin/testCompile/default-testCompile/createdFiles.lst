@@ -1,0 +1,4 @@
+starter\CucumberTestSuite.class
+starter\Page\RumahPage.class
+starter\Page\booksPage.class
+starter\stepdefinitions\bookStep.class

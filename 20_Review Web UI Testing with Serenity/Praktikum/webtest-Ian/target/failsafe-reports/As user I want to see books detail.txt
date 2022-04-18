@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As user I want to see books detail
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.01 s - in As user I want to see books detail
