@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user i want to create transaction of a product","As user i create transaction of product","SUCCESS","2022-05-19T19:14:25.8907849+07:00[Asia/Jakarta]","0.0","15.01"
+"As user i want to login on login page","as a user login using valid email and password","SUCCESS","2022-05-19T19:14:41.0223097+07:00[Asia/Jakarta]","0.0","0.85"
+"As user i want to see all product on home page","As user i have be able to get detail all product","SUCCESS","2022-05-19T19:14:41.90776+07:00[Asia/Jakarta]","0.0","1.52"
+"As user i want to see a ratings of product on homepage","As user i have be able to get ratings a product","SUCCESS","2022-05-19T19:14:43.5409044+07:00[Asia/Jakarta]","0.0","0.64"
+"As user i want to success register","as a user register using valid full name,email, and password","SUCCESS","2022-05-19T19:14:44.2524631+07:00[Asia/Jakarta]","0.0","0.59"

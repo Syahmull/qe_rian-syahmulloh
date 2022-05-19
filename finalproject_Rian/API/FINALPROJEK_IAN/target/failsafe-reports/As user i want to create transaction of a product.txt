@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As user i want to create transaction of a product
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.707 s - in As user i want to create transaction of a product

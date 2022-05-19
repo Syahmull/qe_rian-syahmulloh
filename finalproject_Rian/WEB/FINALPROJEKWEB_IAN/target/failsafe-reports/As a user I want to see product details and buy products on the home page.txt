@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As a user I want to see product details and buy products on the home page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.128 s - in As a user I want to see product details and buy products on the home page

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As user i want to login so that i can see my home page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.008 s - in As user i want to login so that i can see my home page

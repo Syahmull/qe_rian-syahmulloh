@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I want to see product details and buy products on the home page","As user I want to see detail a Laptop","SUCCESS","2022-05-19T07:43:13.6395226+07:00[Asia/Jakarta]","0.0","21.48"
+"As user i want to login so that i can see my home page","as a user i want to login using valid email and valid password","SUCCESS","2022-05-19T07:43:36.246006+07:00[Asia/Jakarta]","0.0","27.94"
+"As user i want to adding and reduce value a product on order page","as user i want to adding more value a product","SUCCESS","2022-05-19T07:44:05.2360076+07:00[Asia/Jakarta]","0.0","16.62"
+"As a user I want to register so I can login to my home page","as user i want to input valid nama lengkap, email, and password","SUCCESS","2022-05-19T07:44:22.4144809+07:00[Asia/Jakarta]","0.0","19.05"
+"As user i want to select category","As user i want to select a category at home page","SUCCESS","2022-05-19T07:44:42.045985+07:00[Asia/Jakarta]","0.0","17.36"

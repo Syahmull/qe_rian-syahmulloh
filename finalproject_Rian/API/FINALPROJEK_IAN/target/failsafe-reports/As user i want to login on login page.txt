@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As user i want to login on login page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.95 s - in As user i want to login on login page

@@ -1,0 +1,12 @@
+starter\page\HomePage.class
+starter\page\LoginPage.class
+starter\page\SelectCategoriesPage.class
+starter\page\RegisPage.class
+starter\stepdefinition\OrderStep.class
+starter\stepdefinition\LoginStep.class
+starter\stepdefinition\DetailStep.class
+starter\stepdefinition\SelectcategorieStep.class
+starter\page\DetailPage.class
+starter\CucumberTestSuite.class
+starter\page\OrderPage.class
+starter\stepdefinition\RegisStep.class
