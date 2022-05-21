@@ -15,7 +15,7 @@ public class SelectCategoriesPage extends PageObject {
         return By.xpath("//div[contains(@class,'v-menu__content theme--light menuable__content__active')]");
     }
     private By clickSalahSatuCategori(){
-        return By.xpath("(//div[contains(text(),'alat')]/parent::div)[3]");
+        return By.xpath("(//div[contains(@class,'v-list-item v-list-item--link theme--light')]/child::div)[4]");
     }
     private By munculCategorinya(){
         return By.xpath("//div[contains(@class,'v-alert v-sheet theme--light elevation-2 v-alert--border v-alert--border-top')]");
