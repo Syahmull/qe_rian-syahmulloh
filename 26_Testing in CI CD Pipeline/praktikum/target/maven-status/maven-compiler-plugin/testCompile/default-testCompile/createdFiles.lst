@@ -1,0 +1,11 @@
+starter\gadogado\Product.class
+starter\stepdefinitions\RegisterStep.class
+starter\stepdefinitions\LoginStep.class
+starter\gadogado\Login.class
+starter\stepdefinitions\ProductStep.class
+starter\gadogado\CreateTransaction.class
+starter\gadogado\Ratings.class
+starter\stepdefinitions\CreateTransactionStep.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\RatingsStep.class
+starter\gadogado\Register.class

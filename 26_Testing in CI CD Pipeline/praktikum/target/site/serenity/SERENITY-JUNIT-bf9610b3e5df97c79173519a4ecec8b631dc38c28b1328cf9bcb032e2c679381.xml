@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="As user i want to success register" skipped="0" tests="1" time="1.07" timestamp="2022-05-20 07:52:50"><testcase name="as a user register using valid full name,email, and password"/></testsuite>
